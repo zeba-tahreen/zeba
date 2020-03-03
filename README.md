@@ -1,9 +1,8 @@
 ## Zeba Portfolio
 
-Welcome to my profile and this is my portfolio, if you familiar with my repositories then you must have seen this portfolio in another repo as [Portfolio](https://zeba-tahreen.github.io/)
-, but there is alot of diffrenece between the language used to create both the apps. 
+Welcome to my profile and this is my portfolio, if you familiar with my repositories then you must have seen this portfolio in another repo as [zeba-tahreen.github.io](https://zeba-tahreen.github.io/), but there is alot of diffrenece between the languages used to create both the apps. 
 
-This repo is a moderate version of my portfolio, earlier I have build the app using html, css and javascript. Hence as a developer we need to run with the new technologies and keep ourself up to the market I have re-created the same web with using React as javascript framework and Materialize for styling the web application. 
+This repo is a moderate version of my portfolio, earlier I have build this same app using HTML, Css and JavaScript. Hence as a developer we need to run with the new technologies and keep ourself up to the market. So here, I have re-created the same web app with using React (JavaScript framework) and Materialize for styling the web application. 
 
 ## Tools and technologies used
 
@@ -17,4 +16,4 @@ Coming soon
 
 ## Author
 
- [zeba](https://github.com/zeba-tahreen)
+ [Zeba](https://github.com/zeba-tahreen)
