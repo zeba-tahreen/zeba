@@ -1,11 +1,16 @@
 import React from 'react';
+import { BrowserRouter as Route } from 'react-router-dom';
+import Navbar from './components/layout/Navbar';
+import './App.css';
+import WrapperParallax from './components/layout/WrapperParallax';
 
-function App() {
+const App = () => {
   return (
-   <div>
-     Zeba Portfolio
-   </div>
+      <Route>
+        <Navbar />
+        <WrapperParallax />
+      </Route>
   );
-}
+};
 
 export default App;
